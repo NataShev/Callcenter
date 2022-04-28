@@ -4,4 +4,6 @@
 /runConfigurations.xml
 /modules.xml
 /misc.xml
-/out
+/out/
+/.idea/
+/Callcenter.iml
